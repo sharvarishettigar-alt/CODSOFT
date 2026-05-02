@@ -9,8 +9,8 @@ A collection of Python GUI projects built during the CodSoft internship program 
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | 🧮 [Calculator](./calculator/README.md) | Basic arithmetic calculator with GUI |
-| 2 | 📒 [Contact Book](./contact_book/README.md) | Add, search, view and delete contacts |
-| 3 | ✅ [To-Do List](./todo_list/README.md) | Manage daily tasks with status tracking |
+| 2 | 📒 [Contact Book](./contact-book/README.md) | Add, search, view and delete contacts |
+| 3 | ✅ [To-Do List](./to-do_list/README.md) | Manage daily tasks with status tracking |
 
 ---
 
