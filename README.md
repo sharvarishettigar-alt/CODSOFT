@@ -21,7 +21,7 @@ CODSOFT/
 ├── calculator/
 │   ├── calc.py
 │   └── README.md
-├── contact_book/
+├── contact-book/
 │   ├── contact.py
 │   └── README.md
 ├── todo list/
@@ -44,7 +44,7 @@ CODSOFT/
 2. Navigate to any project and run it
    ```bash
    cd calculator
-   python calculator.py
+   python calc.py
    ```
 
 ---
