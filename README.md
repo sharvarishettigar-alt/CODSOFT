@@ -24,7 +24,7 @@ CODSOFT/
 ├── contact_book/
 │   ├── contact.py
 │   └── README.md
-├── todo_list/
+├── todo list/
 │   ├── list.py
 │   └── README.md
 ├── .gitignore
